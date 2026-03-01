@@ -35,3 +35,8 @@ The data is organized by activity and subject, where "subject1", "subject2", etc
 | S8      | 19  | Female | 58         | 1.73       | None                       | No     |
 | S9      |     |        |            |            |                            | Yes    |
 | S10     | 21  | Female | 68         | 1.71       | None                       | No     |
+| S11     | 33  | Female | 51         | 1.60       | None                       | No     |
+| S12     | 44  | Male   | 63         | 1.75       | None                       | No     | 
+| S13     | 54  | Male   | 72         | 1.86       | None                       | No     |
+| S14     | 11  | Female | 38         | 1.50       | None                       | No     |
+| S15     | 10  | Female | 35         | 1.48       | None                       | No     |
